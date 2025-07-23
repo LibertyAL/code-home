@@ -1,1 +1,1 @@
-在JupyterLab运行成功，注意networkx的版本
+SIR模型在JupyterLab运行成功，注意networkx的版本
